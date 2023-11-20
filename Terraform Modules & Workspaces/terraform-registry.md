@@ -1,4 +1,4 @@
-### Demo Code used in Video:
+
 
 ```sh
 provider "aws" {
