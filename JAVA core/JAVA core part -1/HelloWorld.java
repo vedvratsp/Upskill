@@ -8,7 +8,7 @@ public class HelloWorld{
 }
 
 
-1. Operators
+/*1. Operators
 
 2. Flow Control
 
@@ -16,4 +16,4 @@ public class HelloWorld{
 
 4. OOPs Concepts
 
-5. Exception Handling
+5. Exception Handling */
